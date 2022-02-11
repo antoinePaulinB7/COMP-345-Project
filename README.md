@@ -4,12 +4,12 @@ Fall 2020
 Prof. Joey Paquet
 
 # Authors:
-Marco Bucciacchio - 40032872
+Marco Bucciacchio
 
-Gabriel Desroches - 40099529
+Gabriel Desroches
 
-Lina Kretzschmar - 40117465
+Lina Kretzschmar
 
-Antoine Paulin-Bessette - 40098918
+Antoine Paulin-Bessette
 
-Briana Toia - 40097889
+Briana Toia
